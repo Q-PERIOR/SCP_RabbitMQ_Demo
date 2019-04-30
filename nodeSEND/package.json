@@ -1,0 +1,23 @@
+{
+  "dependencies": {},
+  "description": "my description",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "jest-junit": "^5.2.0",
+    "amqplib": "^0.5.3",
+    "body-parser": "^1.18.3",
+    "cfenv": "^1.1.0",
+    "express": "^4.16.4",
+    "dropbox-fs": "^0.3.1"
+  },
+  "files": [],
+  "main": "server.js",
+  "name": "node",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "version": "1.0.0"
+}
